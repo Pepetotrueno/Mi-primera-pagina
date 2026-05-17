@@ -1,5 +1,5 @@
 console.log("¡Conectado!")
-document.body.style.backgroundColor="red";// Cambiar el fondo de cuerpo negro mediante JS
+document.body.style.backgroundColor="write";// Cambiar el fondo de cuerpo negro mediante JS
 
 const nuevaImagen = document.createElement("img");//Creamos la "caja" de la imagen
 nuevaImagen.src = "https://sandovallegacygroup.com/wp-content/uploads/2025/08/Screenshot-2025-08-14-at-9.19.56-AM-854x675.pngLA";
